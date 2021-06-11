@@ -1,4 +1,4 @@
-# Script for flashing Unifi AP AC lite with OpenWrt
+# Script for flashing Unifi AP AC with OpenWrt
     
 - Download OpenWrt sysupgrade image for your device from https://openwrt.org/toh/ubiquiti/unifiac
 - Rename OpenWrt image to openwrt.bin
