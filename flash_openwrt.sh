@@ -11,6 +11,7 @@ iscp()
         -o UserKnownHostsFile=/dev/null \
         -o LogLevel=error \
         -oMacs=hmac-sha1 \
+        -O \
         ${@}
 }
 
